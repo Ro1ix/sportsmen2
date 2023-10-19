@@ -1,0 +1,7 @@
+C:\Users\prdb\Desktop\sportsmen2.0\bin\Debug\sportsmen2.0.exe.config
+C:\Users\prdb\Desktop\sportsmen2.0\bin\Debug\sportsmen2.0.exe
+C:\Users\prdb\Desktop\sportsmen2.0\bin\Debug\sportsmen2.0.pdb
+C:\Users\prdb\Desktop\sportsmen2.0\obj\Debug\sportsmen2.0.csproj.AssemblyReference.cache
+C:\Users\prdb\Desktop\sportsmen2.0\obj\Debug\sportsmen2.0.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\sportsmen2.0\obj\Debug\sportsmen2.0.exe
+C:\Users\prdb\Desktop\sportsmen2.0\obj\Debug\sportsmen2.0.pdb
